@@ -1,7 +1,7 @@
 {
-  "name": "wangyi-music",
+  "name": "music-music",
   "version": "0.1.0",
-  "homepage": "https://sanyuan0704.github.io/cloud-music",
+  "homepage": "https://github.com/Deepak-Joshi-au7/music_app_cloud_based_react/",
   "private": true,
   "dependencies": {
     "@babel/core": "7.4.3",
