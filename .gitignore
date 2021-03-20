@@ -11,6 +11,9 @@
 # production
 /build
 
+#readMe
+README.md
+
 # misc
 .DS_Store
 .env.local
